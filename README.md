@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Samson</h1>
 
 <h3 align="center">A 4th-year student at Adama Science and Technology University (ASTU), deeply interested in competitive programming and learning web development. Intrigued by the future of AI and eager to contribute. Committed to continual learning in technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-shamsadin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-shamsadin" /> </p>
@@ -11,6 +10,12 @@
 - 🌱 I’m currently learning **Nestjs**
 
 - 💬 Ask me about **React, Nextjs, Expressjs**
+  
+- 📫 How to reach me **muhammedsamsoon@gmail.com**
+
+- ⚡ Fun fact **I am selenophile**
+
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
