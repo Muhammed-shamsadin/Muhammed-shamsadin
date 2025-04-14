@@ -1,3 +1,5 @@
+![Header](./github-header-imag.png)
+
 <h1 align="center">Hi 👋, I'm Muhammed Samson</h1>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
