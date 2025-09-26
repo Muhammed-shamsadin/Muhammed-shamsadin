@@ -1,8 +1,9 @@
 ## Hi there 👋
 ### I am Muhammed Samson  
-#### Backend-Focused Full Stack Developer | Software Engineer | Data Science & AI Enthusiast
+#### Full Stack Developer | Software Engineer | Data Science & AI Enthusiast
 
 🌱 Intern at A2SV, learning backend and DSA <br>
+💻 Experienced in frontend and backend (full stack apps) <br>
 💡 Love problem solving and algorithms. <br>
 🤝 Love working on projects that make a real impact and help the community.<br>
 💬 Always open to collaboration, mentorship, and community projects.<br>
